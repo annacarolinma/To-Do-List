@@ -1,2 +1,2 @@
 # To-Do-List
-To do list - JavaScript. 
+To do list - JavaScript, html and CSS. 
